@@ -9,14 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ribbon" />
         <module name="feign" />
-        <module name="nativeconfigserver" />
+        <module name="zipkin" />
         <module name="nativeconfigclient" />
         <module name="zuul" />
         <module name="hystrix" />
-        <module name="zipkin" />
         <module name="configclient" />
         <module name="eurekaclient" />
         <module name="zipkinclient" />
+        <module name="nativeconfigserver" />
         <module name="resttemplate" />
         <module name="eurekaserver" />
         <module name="consumer" />
